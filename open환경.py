@@ -137,4 +137,6 @@ while True:
 # 카메라 및 창 닫기
 cap.release()
 cv2.destroyAllWindows()
+# 변신짜라란
+
 '''
